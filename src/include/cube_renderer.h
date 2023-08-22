@@ -1,0 +1,4 @@
+#ifndef CUBE_RENDERER_H
+#define CUBE_RENDERER_H
+
+#endif // CUBE_RENDERER_H
